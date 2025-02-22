@@ -1,2 +1,2 @@
 # miPrimerRepositorio
-Este es mi primer repositorio en GitHub
+Este es mi repositorio de la nueva rama
